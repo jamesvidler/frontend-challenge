@@ -17,7 +17,7 @@ Build an SPA (Single-Page-Application) that allows website visitors to submit a 
 - Must call the sample [API](https://comments-api.azurewebsites.net/swagger/).
 
 ## Submission
-Once you are satisfied, please ensure you create a GitHub repo, with an appropriate README.MD file to run your project and the repo URL via email to your contact at Agility.
+Submit your work using a public GitHub repo with an appropriate README.MD file to run your project. E-mail the repo URL to your contact at Agility.
 
 ## Evaluation
 You will be evaluated on the following:
