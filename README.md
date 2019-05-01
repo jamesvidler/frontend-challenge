@@ -13,7 +13,7 @@ Build an SPA (Single-Page-Application) that allows website visitors to submit a 
 4. Design and UI of the SPA is entirely up to you.
 
 ## Technology Stack
-- 100% Client-side website using either **React**, **VueJS**, or **Angular**.
+- 100% Client-side website using either **React**, **VueJS**, or **Angular** (React is preferred).
 - Must call the sample [API](https://comments-api.azurewebsites.net/swagger/).
 
 ## Submission
